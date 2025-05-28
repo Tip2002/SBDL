@@ -1,0 +1,170 @@
+[
+  {
+    "eventHeader": {
+      "eventIdentifier": "c361a145-d2fc-434e-a608-9688caa6d22e",
+      "eventType": "SBDL-Contract",
+      "majorSchemaVersion": 1,
+      "minorSchemaVersion": 0,
+      "eventDateTime": "2022-09-06T20:49:03+0530"
+    },
+    "keys": [
+      {
+        "keyField": "contractIdentifier",
+        "keyValue": "6982391060"
+      }
+    ],
+    "payload": {
+      "contractIdentifier": {
+        "operation": "INSERT",
+        "newValue": "6982391060"
+      },
+      "sourceSystemIdentifier": {
+        "operation": "INSERT",
+        "newValue": "COH"
+      },
+      "contactStartDateTime": {
+        "operation": "INSERT",
+        "newValue": "2018-03-24T13:56:45.000+05:30"
+      },
+      "contractTitle": {
+        "operation": "INSERT",
+        "newValue": [
+          {
+            "contractTitleLineType": "lgl_ttl_ln_1",
+            "contractTitleLine": "Tiffany Riley"
+          },
+          {
+            "contractTitleLineType": "lgl_ttl_ln_2",
+            "contractTitleLine": "Matthew Davies"
+          }
+        ]
+      },
+      "taxIdentifier": {
+        "operation": "INSERT",
+        "newValue": {
+          "taxIdType": "EIN",
+          "taxId": "ZLCK91795330413525"
+        }
+      },
+      "contractBranchCode": {
+        "operation": "INSERT",
+        "newValue": "ACXMGBA5"
+      },
+      "contractCountry": {
+        "operation": "INSERT",
+        "newValue": "Mexico"
+      },
+      "partyRelations": [
+        {
+          "partyIdentifier": {
+            "operation": "INSERT",
+            "newValue": "9823462810"
+          },
+          "partyRelationshipType": {
+            "operation": "INSERT",
+            "newValue": "F-N"
+          },
+          "partyRelationStartDateTime": {
+            "operation": "INSERT",
+            "newValue": "2019-07-29T06:21:32.000+05:30"
+          },
+          "partyAddress": {
+            "operation": "INSERT",
+            "newValue": {
+              "addressLine1": "45229 Drake Route",
+              "addressLine2": "13306 Corey Point",
+              "addressCity": "Shanefort",
+              "addressPostalCode": "77163",
+              "addressCountry": "Canada",
+              "addressStartDate": "2019-02-26"
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "eventHeader": {
+      "eventIdentifier": "1c1f4df6-8d4f-4c52-9ba6-165babe48f67",
+      "eventType": "SBDL-Contract",
+      "majorSchemaVersion": 1,
+      "minorSchemaVersion": 0,
+      "eventDateTime": "2022-09-06T20:49:03+0530"
+    },
+    "keys": [
+      {
+        "keyField": "contractIdentifier",
+        "keyValue": "6982391061"
+      }
+    ],
+    "payload": {
+      "contractIdentifier": {
+        "operation": "INSERT",
+        "newValue": "6982391061"
+      },
+      "sourceSystemIdentifier": {
+        "operation": "INSERT",
+        "newValue": "ADS"
+      },
+      "contactStartDateTime": {
+        "operation": "INSERT",
+        "newValue": "2018-07-19T11:24:49.000+05:30"
+      },
+      "contractTitle": {
+        "operation": "INSERT",
+        "newValue": [
+          {
+            "contractTitleLineType": "lgl_ttl_ln_1",
+            "contractTitleLine": "Garcia and Sons"
+          },
+          {
+            "contractTitleLineType": "lgl_ttl_ln_2",
+            "contractTitleLine": "Taylor Guzman"
+          }
+        ]
+      },
+      "taxIdentifier": {
+        "operation": "INSERT",
+        "newValue": {
+          "taxIdType": "SSP",
+          "taxId": "CADU39916151090321"
+        }
+      },
+      "contractBranchCode": {
+        "operation": "INSERT",
+        "newValue": "SHJFGBML"
+      },
+      "contractCountry": {
+        "operation": "INSERT",
+        "newValue": "United States"
+      },
+      "partyRelations": [
+        {
+          "partyIdentifier": {
+            "operation": "INSERT",
+            "newValue": "9823462811"
+          },
+          "partyRelationshipType": {
+            "operation": "INSERT",
+            "newValue": "F-N"
+          },
+          "partyRelationStartDateTime": {
+            "operation": "INSERT",
+            "newValue": "2018-08-31T05:27:22.000+05:30"
+          },
+          "partyAddress": {
+            "operation": "INSERT",
+            "newValue": {
+              "addressLine1": "361 Robinson Green",
+              "addressLine2": "3511 Rebecca Mission",
+              "addressCity": "North Tyler",
+              "addressPostalCode": "34118",
+              "addressCountry": "Canada",
+              "addressStartDate": "2018-01-28"
+            }
+          }
+        }
+      ]
+    }
+  }
+]
